@@ -539,6 +539,18 @@
       "White 85%": {
         "value": "#ffffffd9",
         "type": "color"
+      },
+      "white 0%": {
+        "value": "#ffffff00",
+        "type": "color"
+      },
+      "Black 50%": {
+        "value": "#00000080",
+        "type": "color"
+      },
+      "White 50%": {
+        "value": "#ffffff80",
+        "type": "color"
       }
     }
   },

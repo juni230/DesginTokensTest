@@ -231,15 +231,6 @@
       }
     },
     "body": {
-      "XXXL": {
-        "value": {
-          "fontFamily": "{Pretendard}",
-          "fontWeight": "{Medium}",
-          "lineHeight": "{150}",
-          "fontSize": "{Title.Head-3}"
-        },
-        "type": "typography"
-      },
       "Body-3": {
         "value": {
           "fontFamily": "{Pretendard}",

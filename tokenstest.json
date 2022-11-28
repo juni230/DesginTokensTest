@@ -211,21 +211,21 @@
         },
         "type": "typography"
       },
+      "head-2": {
+        "value": {
+          "fontFamily": "{Pretendard}",
+          "fontWeight": "{Bold}",
+          "lineHeight": "{120}",
+          "fontSize": "{Title.Head-2}"
+        },
+        "type": "typography"
+      },
       "head-1": {
         "value": {
           "fontFamily": "{Pretendard}",
           "fontWeight": "{Bold}",
           "lineHeight": "{120}",
           "fontSize": "{Title.Head-1}"
-        },
-        "type": "typography"
-      },
-      "head-2": {
-        "value": {
-          "fontFamily": "{Pretendard}",
-          "fontWeight": "{Bold}",
-          "lineHeight": "{150}",
-          "fontSize": "{Title.Head-2}"
         },
         "type": "typography"
       }
@@ -263,7 +263,7 @@
       "caption-4": {
         "value": {
           "fontFamily": "{Pretendard}",
-          "fontWeight": "{SemiBold}",
+          "fontWeight": "{Medium}",
           "lineHeight": "{150}",
           "fontSize": "{Detail.Caption-4}"
         },
@@ -272,18 +272,9 @@
       "caption-3": {
         "value": {
           "fontFamily": "{Pretendard}",
-          "fontWeight": "{SemiBold}",
-          "lineHeight": "{150}",
-          "fontSize": "{Detail.Caption-3}"
-        },
-        "type": "typography"
-      },
-      "caption-1": {
-        "value": {
-          "fontFamily": "{Pretendard}",
           "fontWeight": "{Medium}",
           "lineHeight": "{150}",
-          "fontSize": "{Detail.Caption-1}"
+          "fontSize": "{Detail.Caption-3}"
         },
         "type": "typography"
       },
@@ -293,6 +284,15 @@
           "fontWeight": "{Medium}",
           "lineHeight": "{150}",
           "fontSize": "{Detail.Caption-2}"
+        },
+        "type": "typography"
+      },
+      "caption-1": {
+        "value": {
+          "fontFamily": "{Pretendard}",
+          "fontWeight": "{Medium}",
+          "lineHeight": "{150}",
+          "fontSize": "{Detail.Caption-1}"
         },
         "type": "typography"
       }
@@ -576,20 +576,20 @@
         "value": "#000000d9",
         "type": "color"
       },
-      "White 85%": {
-        "value": "#ffffffd9",
-        "type": "color"
-      },
-      "white 0%": {
-        "value": "#ffffff00",
-        "type": "color"
-      },
       "Black 50%": {
         "value": "#00000080",
         "type": "color"
       },
+      "White 85%": {
+        "value": "#ffffffd9",
+        "type": "color"
+      },
       "White 50%": {
         "value": "#ffffff80",
+        "type": "color"
+      },
+      "white 0%": {
+        "value": "#ffffff00",
         "type": "color"
       }
     }

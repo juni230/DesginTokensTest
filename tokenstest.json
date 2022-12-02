@@ -572,25 +572,48 @@
       }
     },
     "Opacity": {
-      "Black 85%": {
-        "value": "#000000d9",
+      "None": {
+        "value": "#ffffff00",
         "type": "color"
+      },
+      "Black 90%": {
+        "value": "#000000e6",
+        "type": "color",
+        "description": "Dim"
       },
       "Black 50%": {
         "value": "#00000080",
-        "type": "color"
+        "type": "color",
+        "description": "Icon : Pressed"
       },
-      "White 85%": {
-        "value": "#ffffffd9",
+      "Black 40%": {
+        "value": "#00000066",
+        "type": "color",
+        "description": "Icon : inactive"
+      },
+      "Black 20%": {
+        "value": "#00000033",
+        "type": "color",
+        "description": "Icon : disabled"
+      },
+      "White 90%": {
+        "value": "#ffffffe6",
         "type": "color"
       },
       "White 50%": {
         "value": "#ffffff80",
-        "type": "color"
+        "type": "color",
+        "description": "Icon : pressed"
       },
-      "white 0%": {
-        "value": "#ffffff00",
-        "type": "color"
+      "White 40%": {
+        "value": "#ffffff66",
+        "type": "color",
+        "description": "Icon : inactive"
+      },
+      "White 20%": {
+        "value": "#ffffff33",
+        "type": "color",
+        "description": "Icon : disabled"
       }
     }
   },
